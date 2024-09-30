@@ -1,7 +1,7 @@
 # CAPM Return and Risk in Securities
 
 
-This project involves a comprehensive analysis of stock performance using various financial metrics and machine learning techniques. The primary objective is to evaluate and optimize investment portfolios by leveraging historical stock data.
+This project involves a comprehensive analysis of stock performance using various financial metrics and machine learning techniques. The primary objective is to evaluate and optimize investment portfolios by using historical stock data.
 
 ## Key Features
 
